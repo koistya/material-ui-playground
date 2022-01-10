@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ESnext",
+    "module": "ESNext",
+    "jsx": "preserve",
+    "allowJs": true,
+    "noImplicitAny": true,
+    "noEmit": true,
+    "moduleResolution": "node",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ]
+}
